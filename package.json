@@ -8,7 +8,8 @@
     "build": "rimraf ./build && npx tsc",
     "start": "npm run build && node build/index.js",
     "start-ex1": "npm run build && node build/ex1.js",
-    "start-ex2": "npm run build && node build/ex2.js"
+    "start-ex2": "npm run build && node build/ex2.js",
+    "start-ex3": "npm run build && node build/ex3.js"
   },
   "keywords": [],
   "author": "",
